@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+#todo{ 
+    width: 80%;
+    padding: 12px;
+    margin: 80px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
