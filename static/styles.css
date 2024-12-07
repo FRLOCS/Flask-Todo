@@ -14,10 +14,9 @@ h1{
 
 /* #title{
     border: 1px solid;
-    border-color: cornflowerblue;
     padding: 50px;
     border-radius: 10px;
-    background-color: cornflowerblue;
+
 } */
 
 .list-group-item {
@@ -28,4 +27,8 @@ h1{
     border-radius: 10px;
     font-size: 15px;
     
+}
+
+.col-6 div{
+    margin: 30px;
 }
